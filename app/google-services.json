@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "883082075084",
+    "firebase_url": "https://recycler-8552b.firebaseio.com",
+    "project_id": "recycler-8552b",
+    "storage_bucket": "recycler-8552b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883082075084:android:4ea9ba45ca186069",
+        "android_client_info": {
+          "package_name": "com.example.mosalah.recycaler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883082075084-vbbjh75p2sucatmqfma7psgff0ejeite.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mosalah.recycaler",
+            "certificate_hash": "a9b60dd106b530e6e81eae70aec9a05bfaf63442"
+          }
+        },
+        {
+          "client_id": "883082075084-vhfq8u2t69p04grr4b1027j3sbrtfbec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQw6e8gMDKyTbhCsREDPTbuQRE-N1fVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883082075084-vhfq8u2t69p04grr4b1027j3sbrtfbec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
